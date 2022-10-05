@@ -47,4 +47,3 @@ Assuming that you are working in a start-up company developing logistic robots a
 - [ROS-2 Documentation](https://docs.ros.org/en/rolling/index.html)
 - [ROS-2 Ubuntu/Debian Installation](https://docs.ros.org/en/foxy/Installation/Ubuntu-Development-Setup.html#system-requirements)
 - [MPS User's Guide](https://www.jetbrains.com/help/mps/mps-user-s-guide.html)
-- 
