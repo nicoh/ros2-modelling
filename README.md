@@ -1,7 +1,6 @@
-# Advanced Software Technology Assignment 05
+# ROS Modelling Assignment
 
-This is the fifth assignment of the Advanced Software Technology course. In this assignment you will model a robotic
-system and its interactions with the environment using the *JetBrains MPS*.
+In this assignment you will model a robotic system and its interactions with the environment using the *JetBrains MPS*.
 
 ## Learning Objectives
 
@@ -31,3 +30,4 @@ diagonally**. Furthermore, the robots have a map of the environment, which can b
 ## Resources
 
 - [MPS User's Guide](https://www.jetbrains.com/help/mps/mps-user-s-guide.html)
+- 
