@@ -7,8 +7,7 @@ MPS extract the files and execute from a terminal the `mps.sh` file located in t
 
 ## Download the domain specific languages
 
-For this assignment you need to download several languages and their dependencies. From any directory (preferably one
-with other AST projects) do:
+For this assignment you need to download several languages and their dependencies. From any directory do:
 
 ```
 mkdir languages && cd languages
