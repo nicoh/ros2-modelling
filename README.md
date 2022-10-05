@@ -7,13 +7,13 @@ In this assignment you will model a robotic system and its interactions with the
 The student should be able to
 
 - understand the concepts of Model- and Domain-Specific languages
-- know how to use the *JetBrains MPS* for modelling robotic systems
+- know how to use the *JetBrains MPS* for modelling robotic systems and specifically ROS 2.
 
 ## Task
 
 ### Outline
 
-Remember the email you got from a client in the last assignment.
+Assuming that you are working in a start-up company developing logistic robots and application. You receive the following message from a potential customer.
 
 > To whom it may concern,  
 > I'm the manager of a warehouse which stores and dispatches products for online retailers. With the strong increase of orders that our clients are seing due to the Corona pandemic, we would like to automate our warehouse. Particularly we are searching for a system that is able to store arriving merchandise on our shelves, dispatch an item on request by an arriving order, and to throw away old items to make room for new items on demand.  
@@ -37,11 +37,14 @@ Remember the email you got from a client in the last assignment.
 
 - [ ] Make yourself familiar with the *JetBrains MPS* (see resources)
 - [ ] Complete the tutorial and set up your MPS environment
-- [ ] Model the well known warehouse example
+- [ ] Model the above scenario with the MPS toolchain and think about high-level components for both the robot and the warehouse. Reason about what kind of communication channel is required for interaction and information exchange among robots and the warehouse.
 - [ ] Provide a short write-up of your ideas and modeling decisions in the `writeup.md` file.
-- [ ] Prepare yourself for a short (5min) in class presentation of your model
+- [ ] Provide an initial model in MPS of your ROS-based multi-robot system.
+- [ ] Prepare yourself for a short (5min) in class presentation of your model.
 
 ## Resources
 
+- [ROS-2 Documentation](https://docs.ros.org/en/rolling/index.html)
+- [ROS-2 Ubuntu/Debian Installation](https://docs.ros.org/en/foxy/Installation/Ubuntu-Development-Setup.html#system-requirements)
 - [MPS User's Guide](https://www.jetbrains.com/help/mps/mps-user-s-guide.html)
 - 
